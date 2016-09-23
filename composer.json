@@ -13,6 +13,11 @@
       "email": "brian@modulesunraveled.com"
     }
   ],
+  "autoload": {
+    "files": [
+        "./drushrc.php"
+    ]
+  },
   "require": {},
   "require-dev": {}
 }
